@@ -1,0 +1,17 @@
+html{
+    background-color: #eee;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.dog{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: rgb(113, 157, 238);
+    padding: 15px;
+}
+.global-nav{
+    list-style-type: none;
+    background-color: rgb(182, 242, 242);
+}
+.g-nav{
+    display: inline;
+    padding: 5px;
+}
